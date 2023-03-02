@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+; Edited by Calvarez@aegiscap.com.
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Outlook\AutoDiscover]
+"ExcludeHttpsRootDomain"=dword:00000001
+"PreferLocalXML"=dword:00000000
+"ExcludeHttpRedirect"=dword:00000000
+"ExcludeHttpsAutodiscoverDomain"=dword:00000001
+"ExcludeScpLookup"=dword:00000001
+"ExcludeSrvRecord"=dword:00000001
+"ExcludeExplicitO365Endpoint"=dword:00000001
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Common\Identity]
+"EnableADAL"=dword:00000000
+"DisableADALatopWAMOverride"=dword:00000001
+"DisableAADWAM"=dword:00000001
+
+
+
